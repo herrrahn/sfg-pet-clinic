@@ -26,7 +26,7 @@ public class DataLoader implements CommandLineRunner {
     }
 
     @Override
-    public void run(String... args) {
+    public void run(String... args)  {
 
         PetType petType = new PetType();
         petType.setName("Cat");
