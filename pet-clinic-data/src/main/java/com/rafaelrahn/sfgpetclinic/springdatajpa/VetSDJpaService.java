@@ -1,6 +1,5 @@
 package com.rafaelrahn.sfgpetclinic.springdatajpa;
 
-import com.rafaelrahn.sfgpetclinic.model.Owner;
 import com.rafaelrahn.sfgpetclinic.model.Vet;
 import com.rafaelrahn.sfgpetclinic.repositories.VetRepository;
 import com.rafaelrahn.sfgpetclinic.services.VetService;
